@@ -6,10 +6,10 @@
   },
   "plugins": [
     {
-      "name": "stora",
+      "name": "stora-app-growth",
       "source": "./",
       "description": "Turn app search data into your next growth move",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   ],
   "metadata": {

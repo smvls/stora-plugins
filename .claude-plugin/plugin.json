@@ -1,6 +1,6 @@
 {
-  "name": "stora",
-  "version": "1.0.0",
+  "name": "stora-app-growth",
+  "version": "1.0.1",
   "description": "Find why your app lost search visibility and decide what to improve next.",
   "author": {
     "name": "Endless River Labs Ltd.",
@@ -16,5 +16,6 @@
     "google-play",
     "apple-ads",
     "app-growth"
-  ]
+  ],
+  "privacyPolicyUrl": "https://stora.rocks/privacy"
 }

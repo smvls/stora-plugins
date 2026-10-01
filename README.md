@@ -14,7 +14,7 @@ For a remote connector, use `https://stora.rocks/mcp` with OAuth. Existing API k
 
 ```text
 /plugin marketplace add smvls/stora-plugins
-/plugin install stora@stora-plugins
+/plugin install stora-app-growth@stora-plugins
 ```
 
 Claude's Directory listing becomes available after review. A public repository is an installation source, not proof of Directory approval.

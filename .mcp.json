@@ -1,0 +1,3 @@
+{
+  "mcpServers": { "stora": { "type": "http", "url": "https://stora.rocks/mcp" } }
+}

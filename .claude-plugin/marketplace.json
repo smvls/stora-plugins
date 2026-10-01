@@ -1,0 +1,18 @@
+{
+  "name": "stora-plugins",
+  "owner": {
+    "name": "Endless River Labs Ltd.",
+    "email": "hello@endlessriver.xyz"
+  },
+  "plugins": [
+    {
+      "name": "stora",
+      "source": "./",
+      "description": "Turn app search data into your next growth move",
+      "version": "1.0.0"
+    }
+  ],
+  "metadata": {
+    "description": "Stora plugins for app search research, tracking and Apple Ads reporting."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "stora",
+  "version": "1.0.0",
+  "description": "Find why your app lost search visibility and decide what to improve next.",
+  "author": {
+    "name": "Endless River Labs Ltd.",
+    "email": "hello@endlessriver.xyz",
+    "url": "https://stora.rocks"
+  },
+  "homepage": "https://stora.rocks",
+  "repository": "https://github.com/smvls/stora-plugins",
+  "license": "MIT",
+  "keywords": [
+    "aso",
+    "app-store",
+    "google-play",
+    "apple-ads",
+    "app-growth"
+  ]
+}

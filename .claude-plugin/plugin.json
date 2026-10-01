@@ -1,7 +1,7 @@
 {
   "name": "stora-app-growth",
-  "version": "1.0.2",
-  "description": "Find why your app lost search visibility and decide what to improve next.",
+  "version": "1.0.3",
+  "description": "Turn your agent into an ASO and Apple Ads expert. Find keywords you can win, improve store listings and build your next organic growth plan.",
   "author": {
     "name": "Endless River Labs Ltd.",
     "email": "hello@endlessriver.xyz",
@@ -12,10 +12,23 @@
   "license": "MIT",
   "keywords": [
     "aso",
-    "app-store",
-    "google-play",
+    "app-store-optimization",
+    "asa",
+    "apple-search-ads",
     "apple-ads",
-    "app-growth"
+    "keyword-research",
+    "listing-optimization",
+    "organic-growth",
+    "app-growth",
+    "app-marketing",
+    "rank-tracking",
+    "competitor-analysis",
+    "app-store",
+    "google-play"
   ],
-  "privacyPolicyUrl": "https://stora.rocks/privacy"
+  "privacyPolicyUrl": "https://stora.rocks/privacy",
+  "displayName": "Stora: ASO & Apple Ads",
+  "supportUrl": "https://stora.rocks/support",
+  "documentationUrl": "https://github.com/smvls/stora-plugins#readme",
+  "termsOfServiceUrl": "https://stora.rocks/terms"
 }

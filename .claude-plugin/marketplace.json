@@ -8,11 +8,11 @@
     {
       "name": "stora-app-growth",
       "source": "./",
-      "description": "Turn app search data into your next growth move",
-      "version": "1.0.2"
+      "description": "Turn your agent into an ASO and Apple Ads expert. Find keywords you can win, improve store listings and build your next organic growth plan.",
+      "version": "1.0.3"
     }
   ],
   "metadata": {
-    "description": "Stora plugins for app search research, tracking and Apple Ads reporting."
+    "description": "Turn your agent into an ASO and Apple Ads expert for organic app growth, stronger store listings and smarter ad decisions."
   }
 }

@@ -1,6 +1,6 @@
 ---
 name: competitor-research
-description: Find relevant search gaps in Stora from direct competitors' verified rankings and localized product evidence.
+description: Find keywords worth targeting for organic app growth from direct competitors' verified rankings and localized product evidence in Stora.
 ---
 
 Select the app, platform and storefront through `get_context` and `list_apps`. Read `get_competitors`, `get_competitor` and `get_competitor_gaps`. Use `get_competitor_keywords` for a specific rival. Follow pagination and check research run status, ranking depth, dates and sources.

@@ -1,6 +1,6 @@
 ---
 name: ads-review
-description: Explain Apple Ads spend and search-term evidence from Stora, including hidden queries, reconciliation and reporting gaps.
+description: Prioritize Apple Ads investigations and proposed improvements from Stora spend and search-term evidence, accounting for hidden queries and reporting gaps.
 ---
 
 Select the app, storefront and period. Read `get_ads_connection`, `get_ads_state`, `get_ads_summary`, `get_ads_campaigns` and relevant pages of `get_ads_terms`. Preserve the returned reporting window, timezone, currency and install basis. Use `get_ads_impression_share` or `get_ads_demand` only with their source and support status.

@@ -1,6 +1,6 @@
 ---
 name: rank-review
-description: Explain changes in a Stora app's search visibility using dated rankings, scan health and listing evidence for one store and market.
+description: Find organic growth priorities and explain rank drops using Stora search visibility, dated rankings and listing evidence for one app, store and market.
 ---
 
 Use `get_context` and select the app, platform, storefront and dates. Read `get_health`, `get_runs`, `get_digest` and the relevant pages of `get_keywords_table`. For material changes, inspect `get_keyword_history` and `get_listing`. Distinguish a first observation or coverage change from a movement between independently captured days.

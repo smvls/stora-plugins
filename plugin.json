@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "stora-app-growth",
-  "version": "1.0.2",
-  "description": "Find why your app lost search visibility and decide what to improve next.",
+  "version": "1.0.3",
+  "description": "Turn your agent into an ASO and Apple Ads expert. Find keywords you can win, improve store listings and build your next organic growth plan.",
   "author": {
     "name": "Endless River Labs Ltd.",
     "email": "hello@endlessriver.xyz",
@@ -13,32 +13,41 @@
   "license": "MIT",
   "keywords": [
     "aso",
-    "app-store",
-    "google-play",
+    "app-store-optimization",
+    "asa",
+    "apple-search-ads",
     "apple-ads",
-    "app-growth"
+    "keyword-research",
+    "listing-optimization",
+    "organic-growth",
+    "app-growth",
+    "app-marketing",
+    "rank-tracking",
+    "competitor-analysis",
+    "app-store",
+    "google-play"
   ],
   "extensions": {
     "com.openai": {
       "interface": {
-        "displayName": "Stora",
-        "shortDescription": "Find your next app growth move",
-        "longDescription": "Ask why your app lost visibility, which relevant searches your competitors win, and where Apple Ads spend is going. Stora reads your connected workspace and can manage tracking, listing drafts and experiment notes when you grant write access. You choose the app and market. Store listings and ad campaigns are changed separately by you.",
+        "displayName": "Stora: ASO & Apple Ads",
+        "shortDescription": "Grow installs. Make ads count.",
+        "longDescription": "You built the app. Put your agent to work on growth.\n\nStora turns Codex and ChatGPT into your ASO and Apple Ads research partner. Give your agent a goal: find more organic growth opportunities, improve your store listings or make your next ad decision with confidence.\n\nGet found by the right users. Discover relevant keywords your competitors win, spot gaps in your App Store and Google Play visibility, and prioritize searches worth targeting.\n\nGive more people a reason to install. Turn those opportunities into localized listing drafts grounded in what your app actually does. Review stronger titles, subtitles and keyword choices before publishing.\n\nMake Apple Ads spend work harder. See where imported spend goes, examine search-term evidence and get a prioritized plan for what to investigate or change.\n\nKeep growth moving every week. Set up a recurring task in a host that supports scheduling. Your agent can review rank changes, surface new opportunities, prepare listing experiments and keep a weekly growth plan ready for you.\n\nConnect your Stora workspace and choose the app and market. Read access covers research and reports; write access lets your agent manage Stora tracking, drafts and experiment notes. You approve and publish store listing changes and apply ad campaign changes separately. Recommendations use the available data and do not guarantee ranking or install gains.",
         "developerName": "Endless River Labs Ltd.",
         "category": "Data & Analytics",
         "capabilities": [
-          "Read app search reports",
-          "Research competitors",
-          "Manage tracking and drafts"
+          "Find organic growth opportunities",
+          "Prepare stronger store listings",
+          "Audit Apple Ads spend"
         ],
         "websiteURL": "https://stora.rocks",
         "supportURL": "https://stora.rocks/support",
         "privacyPolicyURL": "https://stora.rocks/privacy",
         "termsOfServiceURL": "https://stora.rocks/terms",
         "defaultPrompt": [
-          "What changed in my app's search visibility this week?",
-          "Which relevant keywords do my direct competitors rank for?",
-          "Where did my Apple Ads spend go?"
+          "Find the best opportunities to grow my app's organic installs this week.",
+          "Improve my App Store and Google Play listings. Prepare drafts I can review.",
+          "Audit my Apple Ads spend and prioritize changes that could make it work harder."
         ],
         "brandColor": "#FF493F",
         "composerIcon": "./assets/logo.svg",
@@ -102,7 +111,7 @@
         "demo_recording_url": "https://github.com/smvls/stora-plugins/releases/download/v1.0.0/stora-walkthrough.mp4"
       },
       "publication": {
-        "release_notes": "Directory-ready Stora plugin with workspace OAuth, app search reviews, competitor research, tracking, listing experiments and Apple Ads reporting."
+        "release_notes": "Clearer ASO and Apple Ads positioning, outcome-focused example prompts and guidance for recurring growth reviews in supported hosts."
       }
     }
   }

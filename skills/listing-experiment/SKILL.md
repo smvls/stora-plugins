@@ -1,6 +1,6 @@
 ---
 name: listing-experiment
-description: Prepare and save a localized Stora listing draft or experiment using relevant search evidence, while preserving existing draft fields.
+description: Improve store listing copy by preparing a localized Stora draft or experiment from relevant search evidence, preserving existing draft fields.
 ---
 
 Read `get_listing`, relevant `get_keywords_table` rows and `list_experiments` for the chosen app, platform and market. Ground copy in verified product features and localized intent. Do not claim unverified functionality, guaranteed ranking gains or invented search volume.
